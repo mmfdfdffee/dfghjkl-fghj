@@ -1,0 +1,8 @@
+requests==2.24.0
+beautifulsoup4==4.9.3
+requests-toolbelt==0.7.1
+pyTelegramBotAPI==3.7.6
+telepot==12.7
+dnspython==2.1.0
+pymongo==3.11.4
+urllib3==1.26.6
